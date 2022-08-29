@@ -1,0 +1,30 @@
+{
+  "post": [],
+  "users": [
+    {
+      "email": "sss132@naver.com",
+      "password": "$2a$10$2sxmCHBHN/eLZN2fsFj2wuTwtgvF5S4jyJlvzTDU1huMYaHSv95xK",
+      "id": 1
+    },
+    {
+      "email": "swx132@naver.com",
+      "password": "$2a$10$UoRbZua92IpiEHIHqkQs6uPT17NlfBfEpyrVDhRMyclbbb2PSCcwW",
+      "id": 2
+    },
+    {
+      "email": "swx132@123.com",
+      "password": "$2a$10$8mM/KT/KS3xJ/LEEnyOSTO15F.TkkIy.TgC5DqnktBczL9I9cZp9S",
+      "id": 3
+    },
+    {
+      "email": "1235@123.com",
+      "password": "$2a$10$dGoiw/Kyi3ZTbOvfxg09XupPHQp4E/9ZAOSUjn.5nMa8.QiLOeD5O",
+      "id": 4
+    },
+    {
+      "email": "1223@naver.com",
+      "password": "$2a$10$AwNOjfHBQeJ7RALbL3WmYOg.rcPNfSbqwubCeoAe4OFSkUVPI8Y9C",
+      "id": 5
+    }
+  ]
+}
